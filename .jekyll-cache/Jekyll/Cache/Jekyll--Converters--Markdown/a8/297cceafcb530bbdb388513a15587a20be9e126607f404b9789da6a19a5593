@@ -1,0 +1,23 @@
+I":	<p>There are countless useful and life-saving resources for Digital Text Analysis and Digital Literary Studies out there - though it’s sometimes hard to find them (again). Here are some of my favourites:</p>
+
+<h5 id="stylometry--text-analytics">Stylometry &amp; Text Analytics</h5>
+<p>Data Science Dojo Youtube series on <a href="https://www.youtube.com/watch?v=4vuw0AsHeGw&amp;t=232s">Text Analytics with R</a></p>
+
+<h5 id="r--r-packages">R &amp; R-Packages</h5>
+<p><a href="https://www.r-bloggers.com/r-code-best-practices/">R Code - Best practices</a><br />
+<a href="https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/">Writing an R package from scratch</a><br />
+For a more thorough discussions packages and their architecture, have a look at Hadley Wickham’s <a href="http://r-pkgs.had.co.nz/">R packages</a><br />
+Hadley Wickham &amp; Garrett Grolemund’s <a href="https://r4ds.had.co.nz/">R for Data Science</a> is an unbelievably valuable resource for reading up on some R basics.<br />
+Hadley Wickham <a href="http://adv-r.had.co.nz/">Advanced R</a><br />
+For non-programmers Garrett Grolemund’s <a href="https://rstudio-education.github.io/hopr/">Hands-On Programming with R</a><br />
+<a href="https://www.r-bloggers.com/">R-bloggers</a><br />
+<a href="http://www-bcf.usc.edu/~gareth/ISL/">An Introduction to Statistical Learning</a><br />
+In general, <a href="https://machinelearningmastery.com/">Machine Learning Mastery</a> is a great place when you are looking for some tutorials on machine learning in both R &amp; python - the <a href="https://machinelearningmastery.com/r-machine-learning-mini-course/">R Machine Learning Mini-Course</a> is especially helpful for absolute beginners who want a step-by-step guide to their first model.<br /></p>
+
+<h5 id="basics-in-statistics">Basics in Statistics</h5>
+<p><a href="https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw">StatQuest with Josh Starmer</a></p>
+
+<h5 id="github-pages">GitHub Pages</h5>
+<p>This <a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages">tutorial</a> by Amanda Visconti helped me enormously to created this website. I use the design template <a href="https://github.com/hemangsk/Gravity">Gravity</a>, which is not only easy to use, but also already comes with a nice structure for blogs posts.</p>
+
+:ET
