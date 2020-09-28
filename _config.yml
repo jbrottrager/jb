@@ -16,7 +16,7 @@
 title: Judith Brottrager
 description: Hi, I'm Judith. I'm a PhD Student in computational literary studies at TU Darmstadt. I'm using digital text analysis and data-driven approaches to explore issues of canonisation in literary history.
 baseurl: "/jb" # the subpath of your site, e.g. /blog
-url: "jbrottrager.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jbrottrager.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: jbrottrager
 
 # Optional social link, you can choose from the following options:
