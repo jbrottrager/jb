@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "*The Signal and the Noise* is now available"
-date:   2020-09-29 10:30:00 +0530
+date:   2020-09-28 10:30:00 +0530
 categories: 
 ---
 
