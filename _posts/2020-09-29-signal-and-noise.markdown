@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Signal and the Noise is now available"
+title:  "The Signal and the Noise. Differentiating Stylometric Signals in the Analysis of Literary Texts"
 date:   2020-09-28 10:30:00 +0530
 categories: 
 ---
