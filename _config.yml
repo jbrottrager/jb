@@ -26,7 +26,7 @@ social_username: JBrottrager
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: black
+theme_color: gray
 
 # Build settings
 markdown: kramdown
