@@ -1,3 +1,5 @@
+.font-smoothing { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
 /** Reset some basic elements */
 * { box-sizing: border-box !important; margin: 0; }
 
@@ -30,7 +32,7 @@ a:hover { text-decoration: underline; }
 
 pre { border-left: 8px solid #ddd; margin: 32px 0; padding-left: 16px; width: 75%; overflow-x: auto; }
 
-code { color: #777; font-size: 16px; padding: 1px 0px; }
+code { color: #DC3918; font-size: 16px; padding: 1px 0px; }
 
 .prose a { text-decoration: underline dotted; }
 
@@ -73,9 +75,9 @@ code { color: #777; font-size: 16px; padding: 1px 0px; }
 .prose table tr th { border-top: 2px solid #181818; border-bottom: 2px solid #181818; }
 
 /* Type utilities */
-.h0 { font-size: 64px; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }
+.h0 { font-size: 32px; line-height: 1.0125; margin-top: 0.85em; word-wrap: break-word; }
 
-@media (min-width: 52em) { .h0 { font-size: 64px; } }
+@media (min-width: 52em) { .h0 { font-size: 32px; } }
 
 .text-right { text-align: right; }
 
@@ -103,21 +105,21 @@ code { color: #777; font-size: 16px; padding: 1px 0px; }
 .border-0 { border: 0; }
 
 /* Theme color utilities */
-.header-background { background-color: #bbb; }
+.header-background { background-color: #181818; }
 
-.header-border { border-color: #181818; }
+.header-border { border-color: #fff; }
 
-.header-title { color: #181818; }
+.header-title { color: #fff; }
 
-.header-text { color: #181818; }
+.header-text { color: #fff; }
 
-.header-social { fill: #181818; }
+.header-social { fill: #fff; }
 
-.header-social-accent { fill: #fff; }
+.header-social-accent { fill: #E74727; }
 
-.header-link:hover { color: #444 !important; }
+.header-link:hover { color: #E74727 !important; }
 
-.text-accent { color: #777; }
+.text-accent { color: #E74727; }
 
 /* Layout utilities */
 .container { max-width: 64em; }
@@ -236,6 +238,6 @@ code { color: #777; font-size: 16px; padding: 1px 0px; }
 
 .link-primary { font-weight: bold; text-decoration: none !important; }
 
-.link-primary:hover { color: #777; text-decoration: none !important; }
+.link-primary:hover { color: #E74727; text-decoration: none !important; }
 
 /*# sourceMappingURL=style.css.map */
