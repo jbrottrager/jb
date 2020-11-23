@@ -1,3 +1,3 @@
 source "https://rubygems.org"
-gem "jekyll-swiss"
+gem "jekyll-theme-so-simple"
 gem "jekyll", "~> 4.0"

@@ -1,0 +1,15 @@
+# Sample site navigation bar links
+
+- title: Home
+  url: /
+- title: About
+  url: /about/
+- title: Links
+  url: /links/
+- title: stylcoR
+  url: /stylcoR/
+- title: Visualisations
+  url: /visualisations/
+
+# - title: External Page
+#   url: https://the-page.com/you-want-to-link-to.html
