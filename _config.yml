@@ -20,7 +20,7 @@ locale: en-GB
 title: Judith Brottrager
 description: Computational Literary Studies
 baseurl: "/jb" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://jbrottrager.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
