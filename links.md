@@ -28,5 +28,5 @@ In general, [Machine Learning Mastery](https://machinelearningmastery.com/) is a
 ##### Machine Learning
 {% endcomment %}
 ##### GitHub Pages
-This [tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) by Amanda Visconti helped me enormously to created this website. I use the design template [Gravity](https://github.com/hemangsk/Gravity), which is not only easy to use, but also already comes with a nice structure for blogs posts.
+This [tutorial](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages) by Amanda Visconti helped me enormously to created this website. I use the design template [So Simple](https://github.com/mmistakes/so-simple-theme), which is not only easy to use, but also already comes with a nice structure for blogs posts.
 
