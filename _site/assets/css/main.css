@@ -450,11 +450,11 @@ tr, td, th { vertical-align: middle; }
 
 .page-title { margin-bottom: 0.5em; font-family: "Lora", serif; font-weight: bold; font-style: italic; letter-spacing: -2px; }
 
-.page-title { font-size: 28px; }
+.page-title { font-size: 18px; }
 
-@media screen and (min-width: 320px) { .page-title { font-size: calc(28px + 12 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { .page-title { font-size: calc(18px + 12 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { .page-title { font-size: 30px; } }
+@media screen and (min-width: 1280px) { .page-title { font-size: 28px; } }
 
 .page-image { position: relative; text-align: center; margin-top: -37.5px; margin-bottom: 2em; z-index: 1; }
 
@@ -590,11 +590,11 @@ tr, td, th { vertical-align: middle; }
 
 .entries-list .entry-title { -webkit-box-ordinal-group: 2; -ms-flex-order: 1; order: 1; }
 
-.entries-list .entry-title { font-size: 18px; }
+.entries-list .entry-title { font-size: 14px; }
 
-@media screen and (min-width: 320px) { .entries-list .entry-title { font-size: calc(18px + 12 * ((100vw - 320px) / 960)); } }
+@media screen and (min-width: 320px) { .entries-list .entry-title { font-size: calc(14px + 12 * ((100vw - 320px) / 960)); } }
 
-@media screen and (min-width: 1280px) { .entries-list .entry-title { font-size: 18px; } }
+@media screen and (min-width: 1280px) { .entries-list .entry-title { font-size: 28px; } }
 
 .entries-list .entry-excerpt, .entries-list .entry-content { -webkit-box-ordinal-group: 4; -ms-flex-order: 3; order: 3; /* remove space after last child element */ }
 
