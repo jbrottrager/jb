@@ -1,6 +1,7 @@
 ---
 title: "About"
 layout: single
+permalink: /jb/
 author_profile: true
 ---
 
