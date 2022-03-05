@@ -21,7 +21,7 @@ title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Judith Brottrager"
 description              : "Computational Literary Studies | Comparative Literature | English and American Studies"
-url                      : "http://localhost:4000"
+url                      : "jbrottrager.github.io"
 baseurl                  : "/jb/"
 repository               : # GitHub username/repo-name e.g. "jbrottrager/jb"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
