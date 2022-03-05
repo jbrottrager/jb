@@ -1,7 +1,7 @@
 ---
 title: 
 layout: single
-premalink: /
+url : https://jbrottrager.github.io/jb/
 author_profile: true
 ---
 
