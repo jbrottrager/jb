@@ -1,6 +1,7 @@
 ---
 title: 
 layout: single
+premalink: /
 author_profile: true
 ---
 
