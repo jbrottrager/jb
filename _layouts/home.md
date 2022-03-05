@@ -1,7 +1,6 @@
 ---
 title: "About"
-layout: single
-permalink: /
+layout: home
 author_profile: true
 ---
 
