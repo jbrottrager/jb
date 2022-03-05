@@ -1,7 +1,7 @@
 ---
 title: "About"
 layout: single
-permalink: /
+url: https://jbrottrager.github.io/jb/
 author_profile: true
 ---
 
