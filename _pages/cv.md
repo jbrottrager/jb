@@ -10,7 +10,7 @@ author_profile: true
 | since 2020     |  PhD researcher at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp)      |
 | 2018-2020 | Student researcher at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp) 
 
-### Eduction
+### Education
 
 | since 2020      | Doctoral student in German Philology / Computational Literary Studies |
 | 2017-2019   | MA in Linguistic and Literary Computing (TU Darmstadt) |
