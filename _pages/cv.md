@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-### Positions
+### Research Positions
 
 | since 2020     |  PhD researcher at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp)      |
 | 2018-2020 | Student researcher at TU Darmstadt, [Institute of Linguistics and Literary Studies](https://www.linglit.tu-darmstadt.de/institutlinglit/index.en.jsp) 
