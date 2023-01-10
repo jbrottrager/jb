@@ -4,8 +4,8 @@ main:
      url: /cv/
    - title: "Publications etc."
      url: /publications/
-   - title: "Blog Posts"
-     url: /posts/
+  # - title: "Blog Posts"
+  #   url: /posts/
   # - title: "Projects"
   #   url: /projects/
   # - title: "Sitemap"
