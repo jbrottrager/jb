@@ -7,9 +7,9 @@ author_profile: true
 
 #### Journal & conference articles (peer-reviewed)
 
-| Autorschaft und Literarische Kommunikation in Fanfiction-Portalen: Harry Potterauf Fanfiktion.de \
+Autorschaft und Literarische Kommunikation in Fanfiction-Portalen: Harry Potterauf Fanfiktion.de \
 Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat \
-Zeitschrift für Literaturwissenschaft und Linguistik (forthcoming) |
+Zeitschrift für Literaturwissenschaft und Linguistik (forthcoming) 
 
 [Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary Historical Reception](https://jcls.io/article/id/95/) \
 *Judith Brottrager* , Annina Stahl, Arda Arslan, Ulrik Brandes, Thomas Weitin \
