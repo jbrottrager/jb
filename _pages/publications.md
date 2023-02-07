@@ -1,6 +1,6 @@
 ---
 layout: single
-title : Publications etc.
+title : Publications
 permalink: /publications/
 author_profile: true
 ---
@@ -12,6 +12,10 @@ author_profile: true
 
 
 ### Presentations
+
+Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte
+Judith Brottrager
+Poster presentation, Germanistentag 2022
 
 - Brottrager, Judith. 2022. "Relating the Unread: Modellierungen der Literaturgeschichte." DHd2022, 9 March 2022. 
 - Brottrager, Judith; Stahl, Annina. 2021. ["Relating the Unread. Network Models in Literary History."](https://doi.org/10.5281/zenodo.4737134) Poster presented at: Virtuelles Jahrestreffen des SPP Computational Literary Studies, 18 March 2021. 
