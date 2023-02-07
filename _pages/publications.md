@@ -7,7 +7,7 @@ author_profile: true
 
 #### Journal & conference articles (peer-reviewed)
 
-Autorschaft und Literarische Kommunikation in Fanfiction-Portalen: Harry Potterauf Fanfiktion.de \
+Autorschaft und Literarische Kommunikation in Fanfiction-Portalen: Harry Potter auf Fanfiktion.de \
 Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat \
 Zeitschrift für Literaturwissenschaft und Linguistik (forthcoming) 
 
