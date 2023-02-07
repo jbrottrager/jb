@@ -32,6 +32,6 @@ DH2022, Tokyo (online) \
 *Judith Brottrager* \
 DHd2022, Potsdam (online) \
   
-[Relating the Unread. Network Models in Literary History.](https://doi.org/10.5281/zenodo.4737134) \
+[Relating the Unread. Network Models in Literary History](https://doi.org/10.5281/zenodo.4737134) \
 *Judith Brottrager*, Annina Stahl  \
 Annual Meeting of the SPP Computational Literary Studies 2021 (online) \
