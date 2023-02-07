@@ -7,6 +7,7 @@ author_profile: true
 
 #### Journal & conference articles (peer-reviewed)
 
+
 Autorschaft und Literarische Kommunikation in Fanfiction-Portalen: Harry Potterauf Fanfiktion.de \
 Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat \
 Zeitschrift für Literaturwissenschaft und Linguistik (forthcoming)
@@ -19,7 +20,9 @@ Journal of Computational Literary Studies 1 (2022)
 *Judith Brottrager* , Annina Stahl, Arda Arslan \
 Proceedings of the Conference on Computational Humanities Research (2021)
 
+
 #### Working papers & other publications
+
 
 [Character Shifts in Harry Potter Fanfiction](https://www.digitalhumanitiescooperation.de/pamphlet-10-character-shifts-in-harry-potter-fanfiction/) \
 *Judith Brottrager*, Joël Doat, Julian Häußler, Thomas Weitin  \
@@ -29,7 +32,9 @@ LitLab Pamphlet #10 (2022)
 *Judith Brottrager* \
 Digital Philology: Evolving Scholarship in Digital Philology 1 (2020)
   
+  
 #### Presentations
+
 
 Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte \
 *Judith Brottrager*  \
