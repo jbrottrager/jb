@@ -39,7 +39,7 @@ Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Ko
 *Judith Brottrager*  \
 Poster presentation @Germanistentag 2022
   
-[Relating the Unread: A Data-Rich Approach to the Literary Canon and the “Great Unread”](https://dh2022.dhii.asia/dh2022bookofabsts.pdf) \ 
+[Relating the Unread: A Data-Rich Approach to the Literary Canon and the “Great Unread”](https://dh2022.dhii.asia/dh2022bookofabsts.pdf) \
 *Judith Brottrager*  \
 DH2022
   
