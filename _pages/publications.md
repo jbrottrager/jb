@@ -7,11 +7,25 @@ author_profile: true
 
 ### Journal & conference articles (peer-reviewed)
 
+
+Autorschaft und Literarische Kommunikation in Fanfiction-Portalen: Harry Potterauf Fanfiktion.de \
+Thomas Weitin, Jill Bühler, *Judith Brottrager*, Anastasia Glawion, Joël Doat \
+Zeitschrift für Literaturwissenschaft und Linguistik (forthcoming)
+
+[Modeling and Predicting Literary Reception: A Data-Rich Approach to Literary Historical Reception](https://jcls.io/article/id/95/) \
+*Judith Brottrager* , Annina Stahl, Arda Arslan, Ulrik Brandes, Thomas Weitin \
+Journal of Computational Literary Studies 1
+
 [Predicting Canonization: Comparing Canonization Scores Based on Text-Extrinsic and -Intrinsic Features](http://ceur-ws.org/Vol-2989/short_paper21.pdf) \
 *Judith Brottrager* , Annina Stahl, Arda Arslan \
 Proceedings of the Conference on Computational Humanities Research 2021
 
 ### Working papers & other publications
+
+
+[Character Shifts in Harry Potter Fanfiction](https://www.digitalhumanitiescooperation.de/pamphlet-10-character-shifts-in-harry-potter-fanfiction/) \
+*Judith Brottrager*, Joël Doat, Julian Häußler, Thomas Weitin  \
+LitLab Pamphlet #10
 
 [The Signal and the Noise. Differentiating Stylometric Signals in the Analysis of Literary Texts](https://tuprints.ulb.tu-darmstadt.de/13485/) \
 *Judith Brottrager* \
