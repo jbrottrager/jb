@@ -119,7 +119,7 @@ author:
       url: "https://github.com/jbrottrager"
     - label: "ORCID"
       icon: "fab fa-orcid"
-      url: "https://orcid.org/my-orcid?orcid=0000-0002-3108-8936"
+      url: "https://orcid.org/0000-0002-3108-8936"
 
 # Site Footer
 footer:
