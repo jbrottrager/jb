@@ -38,8 +38,7 @@ Digital Philology: Evolving Scholarship in Digital Philology 1 (2020)
 
 Kanonisierungs- und Wertungsscore: Modellierungen literaturwissenschaftlicher Konzepte \
 *Judith Brottrager*  \
-Poster presentation  \
-Germanistentag 2022
+Poster presentation @Germanistentag 2022
   
 [Relating the Unread: A Data-Rich Approach to the Literary Canon and the “Great Unread”](https://dh2022.dhii.asia/dh2022bookofabsts.pdf) \ 
 *Judith Brottrager*  \
@@ -51,4 +50,4 @@ DHd2022
   
 [Relating the Unread. Network Models in Literary History](https://doi.org/10.5281/zenodo.4737134) \
 *Judith Brottrager*, Annina Stahl  \
-Annual Meeting of the SPP Computational Literary Studies 2021
+Poster presentation @Annual Meeting of the SPP Computational Literary Studies 2021
