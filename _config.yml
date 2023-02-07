@@ -118,7 +118,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jbrottrager"
     - label: "Orcid"
-      icon: "fa-brands fa-orcid"
+      icon: "fab fa-orcid"
       url: "https://orcid.org/my-orcid?orcid=0000-0002-3108-8936"
 
 # Site Footer
