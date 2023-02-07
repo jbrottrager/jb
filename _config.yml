@@ -117,7 +117,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jbrottrager"
-    - label: "Orcid"
+    - label: "ORCID"
       icon: "fab fa-orcid"
       url: "https://orcid.org/my-orcid?orcid=0000-0002-3108-8936"
 
